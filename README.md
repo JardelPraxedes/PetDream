@@ -12,3 +12,5 @@ Projeto com o objetivo de criar um programa para suprir as necessidades de cadas
 * Gabriel Cavalcante
 * Isthefani Vitoria 
 * Jardel Praxedes 
+* João Gabriel 
+* Juan 
