@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="tela.frame">
+  <grid id="27dc6" binding="tela" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="19" y="20" width="3856" height="1193"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="f7d0b" binding="tela_fundo" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16107399"/>
+          <enabled value="false"/>
+          <foreground color="-11159877"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="4cf" binding="cabecalho" layout-manager="GridLayoutManager" row-count="41" column-count="119" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="3" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-16107399"/>
+            </properties>
+            <border type="none">
+              <font/>
+            </border>
+            <children>
+              <vspacer id="af103">
+                <constraints>
+                  <grid row="15" column="115" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="d48b9">
+                <constraints>
+                  <grid row="14" column="115" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="16fa4">
+                <constraints>
+                  <grid row="5" column="115" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7b9e8">
+                <constraints>
+                  <grid row="17" column="115" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="e59f2">
+                <constraints>
+                  <grid row="18" column="11" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="dbe70">
+                <constraints>
+                  <grid row="27" column="12" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7ad4">
+                <constraints>
+                  <grid row="31" column="117" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="27882">
+                <constraints>
+                  <grid row="33" column="116" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="46ae6">
+                <constraints>
+                  <grid row="34" column="116" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="88f43">
+                <constraints>
+                  <grid row="29" column="117" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="460dd">
+                <constraints>
+                  <grid row="7" column="115" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="1d42">
+                <constraints>
+                  <grid row="9" column="115" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7683f">
+                <constraints>
+                  <grid row="28" column="117" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="fc72f">
+                <constraints>
+                  <grid row="35" column="116" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="327ed">
+                <constraints>
+                  <grid row="8" column="114" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="68e">
+                <constraints>
+                  <grid row="1" column="113" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="aaa12" class="javax.swing.JSeparator">
+                <constraints>
+                  <grid row="19" column="1" row-span="1" col-span="113" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <foreground color="-16645112"/>
+                </properties>
+              </component>
+              <vspacer id="d687">
+                <constraints>
+                  <grid row="23" column="11" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="a1b22">
+                <constraints>
+                  <grid row="22" column="1" row-span="1" col-span="4" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="ac79d">
+                <constraints>
+                  <grid row="20" column="1" row-span="1" col-span="4" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <hspacer id="594d1">
+                <constraints>
+                  <grid row="27" column="13" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="2ba51">
+                <constraints>
+                  <grid row="27" column="14" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="c827a">
+                <constraints>
+                  <grid row="26" column="9" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="ed78f">
+                <constraints>
+                  <grid row="30" column="10" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="85e99">
+                <constraints>
+                  <grid row="28" column="7" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <component id="80413" class="javax.swing.JSeparator">
+                <constraints>
+                  <grid row="32" column="1" row-span="1" col-span="113" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <foreground color="-16645112"/>
+                </properties>
+              </component>
+              <vspacer id="ecbdd">
+                <constraints>
+                  <grid row="36" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="f9b17">
+                <constraints>
+                  <grid row="38" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="bc454">
+                <constraints>
+                  <grid row="40" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="55699">
+                <constraints>
+                  <grid row="37" column="8" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7592d">
+                <constraints>
+                  <grid row="39" column="8" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="edac2" class="javax.swing.JTextField" binding="tela1_telefone">
+                <constraints>
+                  <grid row="9" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="bf9c2" class="javax.swing.JSeparator">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="113" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <foreground color="-16645112"/>
+                </properties>
+              </component>
+              <component id="ef857" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Nome"/>
+                </properties>
+              </component>
+              <component id="a9407" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="CPF"/>
+                </properties>
+              </component>
+              <component id="213" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="9" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Telefone  ( )"/>
+                </properties>
+              </component>
+              <component id="c013e" class="javax.swing.JTextField" binding="tela1_nome">
+                <constraints>
+                  <grid row="7" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="fb801" class="javax.swing.JTextField" binding="tela1_cpf">
+                <constraints>
+                  <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="fab0f" class="javax.swing.JSeparator">
+                <constraints>
+                  <grid row="10" column="1" row-span="1" col-span="113" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <foreground color="-16645112"/>
+                </properties>
+              </component>
+              <component id="5f46d" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="14" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Nome"/>
+                </properties>
+              </component>
+              <component id="c381d" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="15" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Espécie"/>
+                </properties>
+              </component>
+              <component id="ce9cc" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="16" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Raça"/>
+                </properties>
+              </component>
+              <component id="246eb" class="javax.swing.JTextField" binding="tela1_especie">
+                <constraints>
+                  <grid row="15" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="5d6b0" class="javax.swing.JTextField" binding="tela1_raca">
+                <constraints>
+                  <grid row="16" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="d37bf" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="23" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Queixa principal"/>
+                </properties>
+              </component>
+              <component id="9860d" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="24" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="18"/>
+                  <foreground color="-1"/>
+                  <text value="Histórico médico pregresso"/>
+                </properties>
+              </component>
+              <component id="4fccc" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="26" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Alimentação"/>
+                </properties>
+              </component>
+              <component id="9c831" class="javax.swing.JTextField" binding="tela1_alimentacao">
+                <constraints>
+                  <grid row="26" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="8988f" class="javax.swing.JTextField" binding="tela1_queixa">
+                <constraints>
+                  <grid row="23" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="56482" class="javax.swing.JTextField" binding="tela1_historico">
+                <constraints>
+                  <grid row="24" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="4aecc" class="javax.swing.JTextField" binding="tela1_contactantes">
+                <constraints>
+                  <grid row="25" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="b3eb7" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="25" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Contactantes"/>
+                </properties>
+              </component>
+              <hspacer id="50193">
+                <constraints>
+                  <grid row="24" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <vspacer id="4e7cb">
+                <constraints>
+                  <grid row="13" column="108" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="811bf">
+                <constraints>
+                  <grid row="6" column="108" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="7806a">
+                <constraints>
+                  <grid row="0" column="108" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="1f435">
+                <constraints>
+                  <grid row="7" column="110" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="13612" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1247233"/>
+                  <font name="Arial" size="28" style="1"/>
+                  <foreground color="-1"/>
+                  <icon value="tela/icone4.png"/>
+                  <text value="Pet Dream"/>
+                </properties>
+              </component>
+              <component id="4a76e" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="14" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Sexo"/>
+                </properties>
+              </component>
+              <component id="44595" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="15" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Idade"/>
+                </properties>
+              </component>
+              <component id="d8acd" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="16" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Peso"/>
+                </properties>
+              </component>
+              <component id="81199" class="javax.swing.JTextField" binding="tela1_sexo">
+                <constraints>
+                  <grid row="14" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="8fe82" class="javax.swing.JTextField" binding="tela1_animal_idade">
+                <constraints>
+                  <grid row="15" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="9d290" class="javax.swing.JTextField" binding="tela1_peso">
+                <constraints>
+                  <grid row="16" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="e1c58" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="23" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Vacinação"/>
+                </properties>
+              </component>
+              <component id="8d4e3" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="24" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Vermifugação"/>
+                </properties>
+              </component>
+              <component id="24259" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="25" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Ambiente que vive"/>
+                </properties>
+              </component>
+              <component id="8bb0a" class="javax.swing.JButton" binding="avancar">
+                <constraints>
+                  <grid row="36" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-16107399"/>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <hideActionText value="false"/>
+                  <text value="Avançar"/>
+                </properties>
+              </component>
+              <component id="c4e65" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="20" column="13" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1247233"/>
+                  <font name="Arial" size="24" style="1"/>
+                  <foreground color="-328966"/>
+                  <text value="      Amnase geral"/>
+                </properties>
+              </component>
+              <vspacer id="de23e">
+                <constraints>
+                  <grid row="21" column="13" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="84101" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="11" column="13" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1247233"/>
+                  <enabled value="true"/>
+                  <font name="Arial" size="24" style="1"/>
+                  <foreground color="-328966"/>
+                  <text value="Identificação animal"/>
+                </properties>
+              </component>
+              <vspacer id="61df8">
+                <constraints>
+                  <grid row="12" column="13" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="d743" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="3" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-4517352"/>
+                  <font name="Arial" size="24" style="1"/>
+                  <foreground color="-1247233"/>
+                  <horizontalAlignment value="4"/>
+                  <text value="Dados responsável"/>
+                </properties>
+              </component>
+              <vspacer id="5d799">
+                <constraints>
+                  <grid row="4" column="13" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="8ff6" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1247233"/>
+                  <font name="Arial" size="24" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Ficha de cadastro"/>
+                </properties>
+              </component>
+              <component id="f1777" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="7" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Endereço"/>
+                </properties>
+              </component>
+              <component id="f7f38" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="8" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="Cidade"/>
+                </properties>
+              </component>
+              <component id="c85ab" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="9" column="13" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-1"/>
+                  <text value="UF"/>
+                </properties>
+              </component>
+              <component id="2ea6d" class="javax.swing.JTextField" binding="tela1_endereco">
+                <constraints>
+                  <grid row="7" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="62931" class="javax.swing.JTextField" binding="tela1_cidade">
+                <constraints>
+                  <grid row="8" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="8d151" class="javax.swing.JTextField" binding="tela1_uf">
+                <constraints>
+                  <grid row="9" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <hspacer id="b62e2">
+                <constraints>
+                  <grid row="14" column="109" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="f47b1">
+                <constraints>
+                  <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <vspacer id="40736">
+                <constraints>
+                  <grid row="9" column="118" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <hspacer id="bddfa">
+                <constraints>
+                  <grid row="23" column="107" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="ecdd0">
+                <constraints>
+                  <grid row="23" column="106" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="1de12">
+                <constraints>
+                  <grid row="7" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <component id="2cf53" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="N° Ficha"/>
+                </properties>
+              </component>
+              <component id="4bc5b" class="javax.swing.JTextField" binding="id_ficha">
+                <constraints>
+                  <grid row="1" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="bef6b" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="7" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Data"/>
+                </properties>
+              </component>
+              <component id="8e8fe" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="9" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="RG"/>
+                </properties>
+              </component>
+              <component id="bf432" class="javax.swing.JTextField" binding="tela1_rg">
+                <constraints>
+                  <grid row="9" column="16" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="cc924" class="javax.swing.JTextField" binding="tela1_data">
+                <constraints>
+                  <grid row="7" column="16" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="a8ce" class="javax.swing.JTextField" binding="tela1_vacinacao">
+                <constraints>
+                  <grid row="23" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="47476" class="javax.swing.JTextField" binding="tela1_vermifucacao">
+                <constraints>
+                  <grid row="24" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="bf2bc" class="javax.swing.JTextField" binding="ambiente_vive">
+                <constraints>
+                  <grid row="25" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="43bea" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="14" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Procedência"/>
+                </properties>
+              </component>
+              <component id="3a25c" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="16" column="15" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-131587"/>
+                  <text value="Pelagem"/>
+                </properties>
+              </component>
+              <component id="1e422" class="javax.swing.JTextField" binding="tela1_procedencia">
+                <constraints>
+                  <grid row="14" column="16" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="492e4" class="javax.swing.JTextField" binding="tela1_pelagem">
+                <constraints>
+                  <grid row="16" column="16" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="7d2e0" class="javax.swing.JTextField" binding="tela1_animal_nome">
+                <constraints>
+                  <grid row="14" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
